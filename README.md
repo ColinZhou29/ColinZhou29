@@ -10,14 +10,13 @@ I’m a **Data Scientist** with a passion for using analytics to drive strategic
 
 ## 🌱 Currently Learning
 - Advanced Neural Networks (deep dive into architectures like RNNs, LSTMs)
-- Real-time Data Streaming with Apache Kafka
+- HR Analytics and its impact on human capital
 - AI applications in Data Privacy and Ethics 🌍
   
 ## 💼 Open to Collaboration
 - AI-driven data solutions for businesses
 - Open-source machine learning projects
 - Automating data analysis pipelines with Python and SQL
-- Collaborative projects on AI in mental health and arts 🖼️
 
 ## 📫 Reach me at
 - Email: colinzhou2022@gmail.com
@@ -26,7 +25,7 @@ I’m a **Data Scientist** with a passion for using analytics to drive strategic
 ## 😄 Pronouns: He/Him
 
 ## ⚡ Fun Fact
-When I’m not immersed in data, I’m experimenting with generative AI or growing my own mini herb garden 🌿 (ask me about my Plectranthus amboinicus plant!).
+I’m using AI to teach me how to grow my basil plant! 🌿
 
 
 <!---
